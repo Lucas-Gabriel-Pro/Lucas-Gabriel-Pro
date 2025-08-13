@@ -54,7 +54,7 @@ Projetos que unam design atrativo com funcionalidade
 
 📫 Contato
 
-[LinkedIn]([t](https://www.linkedin.com/in/lucas-gabriel-de-souza-silva-5967b6378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[LinkedIn] :([t](https://www.linkedin.com/in/lucas-gabriel-de-souza-silva-5967b6378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 Email: Lucas.gabriel.pro@outlook.com
 
