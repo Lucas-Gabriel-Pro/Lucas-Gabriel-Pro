@@ -2,7 +2,7 @@
 
 Sou estudante de **Ciência da Computação** e entusiasta em **desenvolvimento front-end**.
 Tenho experiência prática com **HTML5, CSS3, JavaScript** e noções de **Python**.
-Antes da graduação, atuei como **designer gráfico**, **social media** e **técnico em informática**, desenvolvendo habilidades de **resolução de problemas**, **comunicação** e **trabalho em equipe**,além de liderar e gerenciar pequenas equipes.
+Antes da graduação, atuei como **designer gráfico**, **social media** e **técnico em informática**, desenvolvendo habilidades de **resolução de problemas**, **comunicação** e **trabalho em equipe**, além de liderar e gerenciar pequenas equipes.
 
 Busco unir código limpo e funcional a design atrativo e interativo, criando sistemas eficientes, escaláveis e centrados no usuário.
 
