@@ -2,7 +2,11 @@
 
 Sou estudante de **Ciência da Computação** e entusiasta em **desenvolvimento front-end**.
 Tenho experiência prática com **HTML5, CSS3, JavaScript** e noções de **Python**.
-Antes da graduação, atuei como **designer gráfico**, **social media** e **técnico em informática**, desenvolvendo habilidades de **resolução de problemas**, **comunicação** e **trabalho em equipe**.
+Antes da graduação, atuei como **designer gráfico**, **social media** e **técnico em informática**, desenvolvendo habilidades de **resolução de problemas**, **comunicação** e **trabalho em equipe**,além de liderar e gerenciar pequenas equipes.
+
+Busco unir código limpo e funcional a design atrativo e interativo, criando sistemas eficientes, escaláveis e centrados no usuário.
+
+😄 Pronomes: ele/dele
 
 
 ---
@@ -23,7 +27,7 @@ Outras habilidades: Comunicação, perfil analítico, autodidatismo
 
 **Design:** ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
-**Outras habilidades:** Comunicação, perfil analítico, autodidatismo
+
 ---
 
 📌 O que estou fazendo atualmente
@@ -57,6 +61,3 @@ Projetos que unam design atrativo com funcionalidade
 ([LinkedIn](https://www.linkedin.com/in/lucas-gabriel-de-souza-silva-5967b6378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 Email: Lucas.gabriel.pro@outlook.com
-
-😄 Pronomes: ele/dele  
-⚡ Curiosidade: adoro explorar ferramentas e automações que deixem sistemas mais rápidos e eficientes.
